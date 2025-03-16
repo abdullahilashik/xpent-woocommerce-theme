@@ -31,7 +31,7 @@
 </head>
 
 <body class="common-home">
-<!-- <div class="xpent-loader"></div> -->
+<div class="xpent-loader"></div>
 
 <div id="newslater-popup" class="mfp-hide white-popup-block open align-center">
   <div class="nl-popup-main">
